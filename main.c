@@ -5,5 +5,5 @@ void main()
 big3();
 fact();
 pal();
-
+add();
 }
